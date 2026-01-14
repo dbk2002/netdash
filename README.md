@@ -56,7 +56,7 @@ The project is designed for **learning purposes**, simulating real-time networki
 ---
 
 ## Folder Structure
-
+'''
 netdash/
 │
 ├── src/
@@ -70,14 +70,14 @@ netdash/
 │
 ├── package.json
 └── README.md
-
+'''
 
 
 ---
 
 ## Screenshots
 
-### Dashboard
+### Login
 ![Login](screenshots/login.png)
 
 ### Dashboard
