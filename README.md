@@ -107,18 +107,4 @@ Future Improvements
 - Improve charts with historical data and export options.
 
 
----
-
-### ✅ Notes for GitHub
-
-1. Replace `screenshots/dashboard.png` etc. with **your local images**.
-   - Suggested folder: `netdash/screenshots/`
-   - Example:
-     ```
-     netdash/screenshots/dashboard.png
-     netdash/screenshots/connections.png
-     ```
-
-2. Replace **logo path** with your actual logo:
-```markdown
-![NetDash Logo](src/assets/netdash-logo.png)
+Done by Dhanush B K
